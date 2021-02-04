@@ -6,7 +6,7 @@ namespace MeuSite
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("SEM ESCANDALO FML");
         }
     }
 }
